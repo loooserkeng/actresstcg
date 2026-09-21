@@ -1,6 +1,0 @@
-{
-  "name": "Actress Card Collection",
-  "description": "Cinematic digital collectible card pack opening game where you collect, reveal, and inspect original Actress Cards.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
