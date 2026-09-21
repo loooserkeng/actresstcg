@@ -11,7 +11,7 @@ Features:
 - Click any card for full details
 - Supabase leaderboard
 - Admin card creation
-+ Supabase database-backed sessions and collections
+- Supabase database-backed sessions and collections
 - No React, Vite, npm packages, or build step
 
 Open index.html directly or deploy the repository to any static host.
