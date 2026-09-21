@@ -5,12 +5,12 @@ This repository has been replaced with a new, simple, dependency-free static web
 Features:
 - Username/password login stored in browser localStorage
 - Private admin access (credentials are not displayed in the public interface)
-- Exactly 3 cards per pack
+- Cards reveal one at a time (each pack contains 3 cards)
 - 1-hour cooldown
 - Collection and duplicate counts
 - Click any card for full details
 - Supabase leaderboard
-- Admin card creation
+- Admin card creation, card deletion, and user account deletion
 - Supabase database-backed sessions and collections
 - No React, Vite, npm packages, or build step
 
